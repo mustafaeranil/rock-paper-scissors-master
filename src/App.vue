@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="app-bg w-screen h-screen overflow-hidden">
+    <div class="app-bg w-screen min-h-screen overflow-hidden">
       <div class="container mx-auto">
         <div class="flex flex-col items-center">
           <div
